@@ -1,0 +1,2 @@
+# Problabla-4-Proyecto-1
+Como se habrán dado cuenta a lo largo del curso, la programación se puede usar para diferentes aplicaciones y situaciones de la vida real. En este caso estudiaremos un poco de geografía. A continuación les muestro la bandera de inglaterra:Ahora, diseñe un programa que dibuje la bandera de inglaterra a una dimensión dada, con L para el largo horizontal y H para la altura, siendo ambos valores impares mayores a 2 y menores a 20. Se utilizará únicamente los carácteres 0 y + para realizar la representación.
